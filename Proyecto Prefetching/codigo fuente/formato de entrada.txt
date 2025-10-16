@@ -1,0 +1,9 @@
+[Numero de Conjuntos] [Tamaño de los conjuntos] [Palabras por bloque] [Numero de bloques por prefetch]
+[Direccion decimal de 0 a 1023]
+[Direccion decimal de 0 a 1023]
+[Direccion decimal de 0 a 1023]
+[Direccion decimal de 0 a 1023]
+[Direccion decimal de 0 a 1023]
+.
+.
+.
